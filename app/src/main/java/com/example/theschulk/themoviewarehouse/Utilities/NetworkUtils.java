@@ -23,7 +23,7 @@ public final class NetworkUtils {
     private static final String YOUTUBE_BASE_URL = "https://youtube.com/watch";
 
     //TODO Add API key here
-    private static final String API_KEY_QUERY = "bc8d3d8f2ee1512f4a4fbdc65b691cc1";
+    private static final String API_KEY_QUERY = "";
     private static final String QUERY_LANGUAGE = "en-US";
     private static final String PATH_MOVIE = "movie";
     private static final String PATH_REVIEW = "reviews";
