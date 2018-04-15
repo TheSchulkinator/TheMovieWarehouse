@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">The Movie Warehouse</string>
+    <string name="release_date">Release Date</string>
+    <string name="user_rating">Average User Rating</string>
+    <string name="error_string">An error has occurred check for network connectivity!</string>
+    <string name="action_settings">Settings</string>
+    <string name="trailer_title">Movie Trailer\'s:</string>
+    <string name="review_title">User Reviews:</string>
+    <string name="trailer_error">Sorry No Current Trailers</string>
+    <string name="review_error">Sorry No Current User Reviews</string>
+
+    <!-- Labels for the sort setting menu-->
+    <string name="popular_sort">Popular</string>
+    <string name="top_rated_sort">Top Rated</string>
+    <string name="favorite" translatable="true">Favorites</string>
+    <string name="sort_title">Sort By</string>
+    <string name="favorite_sort">Favorites</string>
+
+    <!-- Keys for the preference settings-->
+    <string name="sort_key" translatable="false">sort</string>
+    <string name="favorite_key" translatable="false">favorite</string>
+    <string name="on_state_key" translatable ="false">saveState</string>
+
+    <!-- Values for the settings preference fragment-->
+    <string name="top_rated_value">movie/top_rated</string>
+    <string name="popular_value">movie/popular</string>
+    <string name="favorite_value">favorite</string>
+
+    <!--Non translatable strings for api calls-->
+    <string name="API_KEY_QUERY">bc8d3d8f2ee1512f4a4fbdc65b691cc1</string>
+    <string name="QUERY_LANGUAGE">en-US</string>
+    <string name="TMDB_BASE_URL">https://api.themoviedb.org/3</string>
+    <string name="YOUTUBE_BASE_URL">https://youtube.com/watch</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

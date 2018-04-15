@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preference_sort_array">
+        <item>@string/top_rated_sort</item>
+        <item>@string/popular_sort</item>
+    </array>
+
+    <array name="preference_sort_array_value">
+        <item>@string/top_rated_value</item>
+        <item>@string/popular_value</item>
+    </array>
+</resources>
